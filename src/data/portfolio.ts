@@ -6,8 +6,8 @@ import { IProjectItem } from "../components/Portfolio/Components/PortfolioItem/t
 export const myProjects: IProjectItem[] =  [
     {
         title: 'NLW - Games',
-        imgUrl: '',
-        stacks: ['React', 'React Native', 'Node', 'SQLite', 'TypeScript', 'JavaScript', 'HTML', 'CSS'],
+        imgUrl: '/assets/nlw_project.png',
+        stacks: ['React', 'React Native', 'Node', 'SQLite', 'TypeScript', 'Tailwind'],
         link: 'https://github.com/Thyago-Oliveira-Perez/NLW',
         description: ''
     },

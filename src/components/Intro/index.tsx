@@ -15,6 +15,7 @@ export default function Intro() {
                 text-4xl md:text-7xl
                 mb-1 md:mb-3 
                 font-bold
+                dark:text-white
             ">Thyago</h1>
             <p className="
                 text-base md:text-xl 
